@@ -37,7 +37,7 @@
 
 🧩 **Projects**
 - **[Lung Tools for Chest X-Ray](https://github.com/phuongngo25/LungToolsChestXray)**: A deep learning-based tool for lung segmentation and classification, detecting abnormalities such as COVID-19 and viral pneumonia using ResNet and UNet models.
-- **Retinal-Vessel_Segmentation**: Focused on preparing data for a pretraining model that utilizes Unet for segmenting retinal images, enhancing the accuracy of medical image analysis.
+- **[Retinal-Vessel_Segmentation](https://github.com/phuongngo25/retinal_Vessel_Segmentation)**: Focused on preparing data for a pretraining model that utilizes Unet for segmenting retinal images, enhancing the accuracy of medical image analysis.
 - **Obesity Risk Prediction**: Used Random Forest, LightGBM, and Kolmogorov-Arnold Network (KAN) models to predict obesity risks based on lifestyle and health data.
 - **Mental Health Chatbot**: Developed a chatbot for mental health support, leveraging LLMs, RAG, and LangChain technologies.
 

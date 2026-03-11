@@ -6,7 +6,6 @@
 
 - 🎯 Portfolio website: [Portfolio](https://github.com/phuongngo25)
 - ✉️ My Curriculum Vitae: [NgoThiNgocPhuong_CV](https://github.com/user-attachments/files/25888305/NgoThiNgocPhuong_CV.pdf)
-)
 
 - ⚡ Fun fact: AI is not just a tool—it's a way of thinking. 🤖
 
